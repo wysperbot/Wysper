@@ -1,0 +1,9 @@
+{
+  "dry_run": true,
+  "risk": {
+    "max_risk_per_trade": 0.01,
+    "daily_loss_limit": 0.03,
+    "max_open_positions": 3,
+    "max_total_exposure": 0.30
+  }
+}
