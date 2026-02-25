@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/wysper/main/assets/wysper.png" width="260"/>
 
 <br><br>
 
