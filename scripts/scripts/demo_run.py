@@ -1,3 +1,9 @@
+import sys
+from pathlib import Path
+
+# Allow running without installing as package
+sys.path.append(str(Path(__file__).resolve().parents[1] / "src"))
+
 from wysper.config import load_config
 from wysper.risk_gate import RiskGate
 from wysper.constants import SYSTEM_START, SYSTEM_STOP
@@ -5,13 +11,12 @@ from wysper.event_logger import EventLogger
 
 
 def main():
-    cfg = load_config("config.json")  # falls back to defaults if missing
+    cfg = load_config("config.json")
     logger = EventLogger()
     logger.log_event(SYSTEM_START, meta={"dry_run": getattr(cfg, "dry_run", True)})
 
     gate = RiskGate(cfg)
 
-    # Demo: a candidate entry (paper scenario)
     symbol = "DEMO"
     risk_amount = 0.005
     exposure_amount = 0.05
