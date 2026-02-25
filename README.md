@@ -5,6 +5,12 @@
 
 # Wysper
 ![license](https://img.shields.io/badge/license-MIT-informational)
+![status](https://img.shields.io/badge/status-early%20development-orange)
+![risk-first](https://img.shields.io/badge/risk-first-critical)
+![execution](https://img.shields.io/badge/execution-autonomous-black)
+![kill-switch](https://img.shields.io/badge/kill--switch-enabled-red)
+![openclaw](https://img.shields.io/badge/integration-OpenClaw-blueviolet)
+![openai](https://img.shields.io/badge/ai-OpenAI-lightgrey)
 
 Former OpenAI software engineer.
 
