@@ -14,5 +14,3 @@ I built something that could.
 **One wallet. Defined risk. Silent compounding.**
 
 _Public build. Early stage — bear with me._
-
-</div>
