@@ -1,11 +1,15 @@
+<div align="center">
+
 # Wysper
 
-I’m a former OpenAI software engineer.
+Former OpenAI software engineer.
 
-I built Wysper after a tragic accident left my parents unable to work.  
-It’s an autonomous trading agent designed to generate income with defined risk and disciplined execution.
+When my parents couldn’t work anymore, I built something that could.
 
-One wallet. No noise. Just compounding.
+Wysper is a disciplined, risk-managed trading agent operating from one wallet.
 
-This repository documents the build publicly.  
-Bear with me — the project is just getting started.
+**One wallet. Defined risk. Silent compounding.**
+
+Public repo. Early build — more to come.
+
+</div><img width="734" height="729" alt="Screenshot 2026-02-24 190836" src="https://github.com/user-attachments/assets/e348fcd1-b499-4250-ac6c-4d56a9d903c5" />
