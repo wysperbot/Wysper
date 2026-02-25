@@ -35,3 +35,5 @@ class EventLogger:
             f.write(json.dumps(event) + "\n")
 
         return event
+
+Add structured JSON event logger
