@@ -1,4 +1,3 @@
-![6c63f210d9994b47a75f6d450f5b5a81](https://github.com/user-attachments/assets/c0aaf056-d94b-4fe8-b8ca-56f20b9e53e0)
 
 <div align="center">
 
@@ -26,7 +25,8 @@ Wysper Solana address: J4NaWR2mEARqvYg7ttWVQRMLcWBGYPx1sYN1uhcFVzHR
  ## Configuration
 
 Copy `config.example.json` to `config.json` and adjust limits.
-                                                    <img width="734" height="729" alt="Screenshot 2026-02-24 190836" src="https://github.com/user-attachments/assets/072c3860-dd6d-4eff-add0-9b529377765f" />
+                                                    ![6c63f210d9994b47a75f6d450f5b5a81](https://github.com/user-attachments/assets/143908c6-2011-4c91-ba2e-3ab42bebecda)
+
 
 
 
