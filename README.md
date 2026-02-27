@@ -1,31 +1,60 @@
+<h1 align="center">PokeBet</h1>
 
-<div align="center">
+<p align="center">
+  Pokémon-style battle prediction platform built as a Web3 UI experiment.
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-informational" />
+  <img src="https://img.shields.io/badge/status-early%20development-orange" />
+  <img src="https://img.shields.io/badge/risk-first-critical" />
+  <img src="https://img.shields.io/badge/execution-autonomous-black" />
+  <img src="https://img.shields.io/badge/kill--switch-enabled-red" />
+  <img src="https://img.shields.io/badge/integration-OpenClaw-blueviolet" />
+  <img src="https://img.shields.io/badge/ai-OpenAI-lightgrey" />
+</p>
 
-# Wysper
-![license](https://img.shields.io/badge/license-MIT-informational)
-![status](https://img.shields.io/badge/status-early%20development-orange)
-![risk-first](https://img.shields.io/badge/risk-first-critical)
-![execution](https://img.shields.io/badge/execution-autonomous-black)
-![kill-switch](https://img.shields.io/badge/kill--switch-enabled-red)
-![openclaw](https://img.shields.io/badge/integration-OpenClaw-blueviolet)
-![openai](https://img.shields.io/badge/ai-OpenAI-lightgrey)
+<p align="center">
+  <strong>Beta Mode — Simulated SOL balances only.</strong><br>
+  No real SOL is wagered. No deposits or withdrawals are supported.
+</p>
 
-Former OpenAI software engineer.
+---
 
-When my parents couldn’t work anymore due to a tragic accident,  
-I built something that could.
+## 🚀 Features
 
-**One wallet. Defined risk. Silent compounding.**
+- Join with a username (no wallet required in beta)
+- View scheduled Pokémon-style battles
+- Place predictions using simulated SOL
+- Real-time chat
+- Leaderboard tracking demo performance
 
-_Public build. Early stage — bear with me._
+---
 
-Wysper Solana address: J4NaWR2mEARqvYg7ttWVQRMLcWBGYPx1sYN1uhcFVzHR                                                                            
- ## Configuration
+## 🧠 Why Simulation?
 
-Copy `config.example.json` to `config.json` and adjust limits.
-                                                    ![6c63f210d9994b47a75f6d450f5b5a81](https://github.com/user-attachments/assets/143908c6-2011-4c91-ba2e-3ab42bebecda)
+PokeBet is designed as a front-end and interaction experiment.  
+All balances are virtual and exist for demonstration purposes only.
+
+This project does not involve real cryptocurrency transfers.
+
+---
+
+## 🛠 Tech Stack
+
+- Frontend: (Add your framework)
+- Hosting: (Vercel / Netlify / etc.)
+- Realtime: (Socket.io / Firebase / etc.)
+
+---
+
+## ⚠️ Disclaimer
+
+PokeBet is a fan-made project and is not affiliated with Nintendo or The Pokémon Company.
+
+All game-related names are used for parody / demonstration purposes.
+                                                    <img width="378" height="337" alt="Screenshot 2026-02-27 120231" src="https://github.com/user-attachments/assets/4e7ca7e0-e5cf-4cf4-928c-8afff9b549c2" />
+
 
 
 
